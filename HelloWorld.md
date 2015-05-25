@@ -23,5 +23,7 @@
 * Rename the column name from "V1" to "activity"  
   
 ### Writes the first tidy data set to mergedData.txt
-### Used ply library to apply the function of getting mean/average based on subject & activity
+
+### Used plyr library to apply the function of getting mean/average based on subject & activity
+
 ### Writes the second tidy data set to averagedData.txt
